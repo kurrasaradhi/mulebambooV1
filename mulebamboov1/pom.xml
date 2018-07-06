@@ -82,7 +82,7 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.8.1</muleVersion>
-					<username>skurra3354</username>
+					<username>kurrasaradhi</username>
 					<password>Teksystems@123</password>
 					<applicationName>mulebamboov1</applicationName>
 					<redeploy>true</redeploy>
