@@ -84,7 +84,7 @@
 					<muleVersion>3.8.1</muleVersion>
 					<username>skurra3354</username>
 					<password>Teksystems@123</password>
-					<applicationName>MuleBamboo</applicationName>
+					<applicationName>mulebamboov1</applicationName>
 					<redeploy>true</redeploy>
 					<environment>Sandbox</environment>
 					<!-- <uri>https://anypoint.mulesoft.com</uri> -->
